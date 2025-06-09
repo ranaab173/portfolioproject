@@ -480,7 +480,7 @@ nav {
 }
 
 .skill-tag {
-    background: var(--glass);
+    background: #7c3aed;
     border: 1px solid var(--glass-border);
     padding: 0.5rem 1rem;
     border-radius: 100px;
